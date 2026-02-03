@@ -1,0 +1,22 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 构建产物（重要！）
+build/
+dist/
+*.egg-info/
+
+# 编辑器/系统文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 注意：保留 *.spec 文件（如“文件整理工具.spec”是 PyInstaller 配置）
+# 如确定不需要提交 .spec 文件，取消下一行注释：
+# *.spec
