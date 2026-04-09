@@ -6,7 +6,7 @@ __pycache__/
 
 # 构建产物（重要！）
 build/
-dist/
+#dist/
 *.egg-info/
 
 # 编辑器/系统文件
